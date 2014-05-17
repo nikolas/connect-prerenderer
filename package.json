@@ -5,7 +5,7 @@
   "author": "Daishi Kato <daishi@axlight.com>",
   "dependencies": {
     "jsdom": "0.10.5",
-    "request": "~2.14.0"
+    "request": "~2.35"
   },
   "devDependencies": {
     "express": "~3.4.0",
